@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b8db5ef755abb37f8e8081fec16d49b",
+    "revision": "d2e66406a39b9992d3d841011b37bd98",
     "url": "/campaign-manager/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/campaign-manager/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "37842adfbbe533f0ef88",
+    "revision": "17ff81577026e44d30c4",
     "url": "/campaign-manager/static/css/main.907e3009.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/campaign-manager/static/js/2.dc57decf.chunk.js"
   },
   {
-    "revision": "37842adfbbe533f0ef88",
-    "url": "/campaign-manager/static/js/main.d9ab8b19.chunk.js"
+    "revision": "17ff81577026e44d30c4",
+    "url": "/campaign-manager/static/js/main.ec958edb.chunk.js"
   },
   {
     "revision": "b3d2818a431823022cb6",
