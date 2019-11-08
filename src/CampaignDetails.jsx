@@ -102,8 +102,16 @@ class CampaignDetailsComponent extends React.Component {
                 value={this.state.selectedScheduleData.name}
               />
             </Form.Group>
-            <Button variant="primary" type="submit">
+            <Button variant="primary" type="submit" className="modal-btn">
               Submit
+            </Button>
+            <Button
+              variant="secondary"
+              onClick={this.handleScheduleClose}
+              className="modal-btn"
+              style={{ marginLeft: '10px' }}
+            >
+              Close
             </Button>
           </Form>
         </Modal.Body>
