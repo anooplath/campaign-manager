@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/campaign-manager/static/css/main.907e3009.chunk.css",
-    "main.js": "/campaign-manager/static/js/main.d9ab8b19.chunk.js",
-    "main.js.map": "/campaign-manager/static/js/main.d9ab8b19.chunk.js.map",
-    "runtime-main.js": "/campaign-manager/static/js/runtime-main.ed930381.js",
-    "runtime-main.js.map": "/campaign-manager/static/js/runtime-main.ed930381.js.map",
-    "static/css/2.b0bb7f2c.chunk.css": "/campaign-manager/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.dc57decf.chunk.js": "/campaign-manager/static/js/2.dc57decf.chunk.js",
-    "static/js/2.dc57decf.chunk.js.map": "/campaign-manager/static/js/2.dc57decf.chunk.js.map",
-    "index.html": "/campaign-manager/index.html",
-    "precache-manifest.2ac01cb4b5f51381f27ec57ea64c5e0a.js": "/campaign-manager/precache-manifest.2ac01cb4b5f51381f27ec57ea64c5e0a.js",
-    "service-worker.js": "/campaign-manager/service-worker.js",
-    "static/css/2.b0bb7f2c.chunk.css.map": "/campaign-manager/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.907e3009.chunk.css.map": "/campaign-manager/static/css/main.907e3009.chunk.css.map",
-    "static/media/Bitmap.png": "/campaign-manager/static/media/Bitmap.977ecf7b.png"
+    "main.css": "/campaign-manager-website/static/css/main.907e3009.chunk.css",
+    "main.js": "/campaign-manager-website/static/js/main.7d9e9fd3.chunk.js",
+    "main.js.map": "/campaign-manager-website/static/js/main.7d9e9fd3.chunk.js.map",
+    "runtime-main.js": "/campaign-manager-website/static/js/runtime-main.2faec4bc.js",
+    "runtime-main.js.map": "/campaign-manager-website/static/js/runtime-main.2faec4bc.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/campaign-manager-website/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.dc57decf.chunk.js": "/campaign-manager-website/static/js/2.dc57decf.chunk.js",
+    "static/js/2.dc57decf.chunk.js.map": "/campaign-manager-website/static/js/2.dc57decf.chunk.js.map",
+    "index.html": "/campaign-manager-website/index.html",
+    "precache-manifest.699ad4c3f98f790bbd7277a039b6f583.js": "/campaign-manager-website/precache-manifest.699ad4c3f98f790bbd7277a039b6f583.js",
+    "service-worker.js": "/campaign-manager-website/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/campaign-manager-website/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.907e3009.chunk.css.map": "/campaign-manager-website/static/css/main.907e3009.chunk.css.map",
+    "static/media/Bitmap.png": "/campaign-manager-website/static/media/Bitmap.977ecf7b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed930381.js",
+    "static/js/runtime-main.2faec4bc.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.dc57decf.chunk.js",
     "static/css/main.907e3009.chunk.css",
-    "static/js/main.d9ab8b19.chunk.js"
+    "static/js/main.7d9e9fd3.chunk.js"
   ]
 }
